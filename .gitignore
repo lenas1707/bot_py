@@ -1,0 +1,23 @@
+# Arquivos sensíveis
+.env
+token.txt
+
+# Diretórios de imagens
+imagens_aleat/
+img_segredo/
+stop_img/
+imgs_davibrito/
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente virtual
+venv/
+env/
+.env/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db 
